@@ -1,4 +1,4 @@
-# padrao-nomes-de-arquivo
+# Padronização de nomes de arquivo
 
 ##  Introdução
 Proposta de [padrão para organização e nomeação de arquivos](https://github.com/2aces/padrao-nomes-de-arquivo) como documentos, imagens, lay-out, textos, etc que não sejam arquivos com instruções de programação (e.g. classes PHP, arquivos javascript, etc. )
