@@ -13,4 +13,4 @@ Originalmente criado por [Celso Bessa](https://www.celsobessa.com.br/2016/01/05/
 
 ## Colabore
 
-Este projeto é aberto e você pode colaborar com edições, sugestões, aperfeiçoamentos e traduções utilizando ferramentas colaborativas do Github como "[Issues](https://guides.github.com/features/issues/)", "[Pull Requests](https://help.github.com/articles/about-pull-requests/)" e "[Fork](https://guides.github.com/activities/forking/)". 
+Este projeto é aberto e você pode colaborar com edições, sugestões, aperfeiçoamentos e traduções utilizando ferramentas colaborativas do Github como "[Issues](https://guides.github.com/features/issues/)", "[Pull Requests](https://help.github.com/articles/about-pull-requests/)" e "[Fork](https://guides.github.com/activities/forking/)". [Neste link](https://help.github.com/articles/be-social/), em inglês, você encontra um guia do Github de como "ser social" e colaborar com projetos.
