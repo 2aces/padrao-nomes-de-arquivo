@@ -17,7 +17,7 @@ Nomes de arquivos e suas extensões **DEVEM** ser escritos:
 - em caracteres minúsculos (caixa baixa). e.g. nomedearquivo.txt;
 - sem espaço, com o hífen substituindo espaços em branco. e.g nome-de-arquivo.txt;
 - com a primeira parte (o nome) descritiva, com especificidade crescente: do mais geral, para o mais específico. e.g. cliente-projeto-entregavel.txt
-- com número de versão composto de 3 grupos de números, seguindo regras de versionamento semântico com o primeiro grupo especificando CONCEITO, o segundo MUDANÇAS dentro da um mesmo conceito e o terceiro grupos indicando CORREÇÕES dentro de um mesmo grupo de mudanças. e.g. cliente-projeto-entregavel.1.0.1.txt
+- com número de versão composto de 3 grupos de números, seguindo regras de versionamento semântico com o primeiro grupo especificando **CONCEITO**, o segundo MUDANÇAS dentro da um mesmo conceito e o terceiro grupos indicando CORREÇÕES dentro de um mesmo grupo de mudanças. e.g. cliente-projeto-entregavel.1.0.1.txt
 
 Preferencialmente, nomes de arquivo **DEVERIAM** ser escritos:
 - sem acentuaço ou caracteres especiais. e.g. cliente-projeto-documentacao.1.0.0;
